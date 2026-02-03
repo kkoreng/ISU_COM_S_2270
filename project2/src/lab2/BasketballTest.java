@@ -26,6 +26,9 @@ public class BasketballTest
     
     // Second one is unchanged
     System.out.println("Second basketball: " + b2.isDribbleable());
-    
+
+    b.deflate();
+    System.out.println("First basketball: " + b.isDribbleable());
+
   }
 }

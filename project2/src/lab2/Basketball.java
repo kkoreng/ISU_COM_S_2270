@@ -65,6 +65,9 @@ public class Basketball
   {
     isInflated = true;
   }
-  
+
+    public void deflate() {
+      isInflated = false;
+    }
 
 }
