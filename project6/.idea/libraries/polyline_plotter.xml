@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="polyline_plotter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/polyline_plotter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
