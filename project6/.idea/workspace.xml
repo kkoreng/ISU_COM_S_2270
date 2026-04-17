@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f9431ba-8cb8-448b-81cf-7901c341365a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec21/SearchingAndFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec22/IntroArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec25/AL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec25/Lecture25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polyline_plotter.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/ArrayListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/ArrayListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/LineNumberer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/LineNumberer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/QuizAverager2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/WordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/polyline/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/polyline/TestPlotter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/chr54858/ISU/COMS/ISU_COM_S_2270/project6" value="3BicbwgjX7A6l542OZZCkZEd88j" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kkoreng"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kkoreng/ISU_COM_S_2270.git",
+    "accountId": "1626db75-448f-4387-a3fb-e80866ad10d9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3BicbwgjX7A6l542OZZCkZEd88j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListExample1.executor": "Run",
+    "Application.ArrayListExample2.executor": "Run",
+    "Application.LineNumberer2.executor": "Run",
+    "Application.QuizAverager2.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestPlotter.executor": "Run",
+    "Application.TextEditor.executor": "Run",
+    "Application.WordCounter.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lab6" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f9431ba-8cb8-448b-81cf-7901c341365a" name="Changes" comment="" />
+      <created>1774975406291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774975406291</updated>
+      <workItem from="1774975407307" duration="7993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

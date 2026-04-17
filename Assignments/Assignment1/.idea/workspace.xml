@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9922bf1-cb54-45f4-b442-096996ff0817" name="Changes" comment="Assignment 1">
+      <change afterPath="$PROJECT_DIR$/../../LectureCode/src/p_exam/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LectureCode/src/p_exam/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LectureCode/src/p_exam/RecursionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LectureCode/src/p_exam/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LectureCode/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LectureCode/src/lec08/GasTankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LectureCode/src/lec08/GasTankTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/chr54858/Documents/ISU/COMS/ISU_COM_S_2270/Assignments/Assignment1" value="3AP803NjkBIg5gTzYlRcDX3hxYb" />
+      <entry key="_/Users/chr54858/ISU/COMS/ISU_COM_S_2270/Assignments/Assignment1" value="3CSmU6yZu7izzraRzMLnEZG7Qah" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kkoreng&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kkoreng/ISU_COM_S_2270.git&quot;,
+    &quot;accountId&quot;: &quot;1626db75-448f-4387-a3fb-e80866ad10d9&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AP803NjkBIg5gTzYlRcDX3hxYb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CyGameTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/chr54858/ISU/COMS/ISU_COM_S_2270/Assignments/Assignment1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/hw1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9922bf1-cb54-45f4-b442-096996ff0817" name="Changes" comment="" />
+      <created>1772482735467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772482735467</updated>
+      <workItem from="1772511185174" duration="492000" />
+      <workItem from="1772827671573" duration="13943000" />
+      <workItem from="1773078518405" duration="7409000" />
+      <workItem from="1773090788947" duration="14000" />
+      <workItem from="1773091322580" duration="9923000" />
+      <workItem from="1773271061320" duration="134000" />
+      <workItem from="1773292529901" duration="2000" />
+      <workItem from="1773294583564" duration="1222000" />
+      <workItem from="1776387358172" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Assignment 1">
+      <option name="closed" value="true" />
+      <created>1773271073661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773271073661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 1" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

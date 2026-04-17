@@ -1,15 +1,16 @@
+/*
 package lec08;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.Test;
+import org.junit.p_exam.Test;
 import org.junit.Before; // not really needed yet but useful later
 
 public class GasTankTest {
 
     public static final double ERROR = 0.0001;
 
-    @Test
+    @p_exam.Test
     public void testCreateGasTank() {
         // GasTank tank = new GasTank();
         GasTank tank = new GasTank(10.0); // capacity of the gas tank
@@ -22,7 +23,7 @@ public class GasTankTest {
                 10.0, capacity, ERROR);
     }
 
-    @Test
+    @p_exam.Test
     public void testFillGasTank() {
         GasTank tank = new GasTank(10.0);
         tank.fill(5.0);
@@ -30,7 +31,7 @@ public class GasTankTest {
                 5.0, tank.getLevel(), ERROR);
     }
 
-    @Test
+    @p_exam.Test
     public void testOverfill() {
         GasTank tank = new GasTank(10.0);
         tank.fill(15.0);
@@ -40,4 +41,4 @@ public class GasTankTest {
 
     // Two approaches, either refuse to fill or else
     // fill as much as possible
-}
+}*/

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e9ab40-79af-44fc-8326-697e1d77e636" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec09/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec09/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balloons.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/BalloonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/BasketballExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/BasketballTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/BasketballTests2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/chr54858/Documents/ISU/COMS/ISU_COM_S_2270/project3" value="39UdDW6mfqHkjl8wVJe8VQrsLfF" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kkoreng&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kkoreng/ISU_COM_S_2270.git&quot;,
+    &quot;accountId&quot;: &quot;1626db75-448f-4387-a3fb-e80866ad10d9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="39UdDW6mfqHkjl8wVJe8VQrsLfF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BasketballExample.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BalloonTests.executor": "Run",
+    "JUnit.BasketballTests.executor": "Run",
+    "JUnit.BasketballTests2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/chr54858/Documents/ISU/COMS/ISU_COM_S_2270/project3",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e9ab40-79af-44fc-8326-697e1d77e636" name="Changes" comment="" />
+      <created>1770754476662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770754476662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

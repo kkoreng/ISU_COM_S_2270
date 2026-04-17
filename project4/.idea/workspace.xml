@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad0b1677-d786-4516-affc-5fca2578b460" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A01_expressions/Expression_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A01_expressions/Expression_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A01_expressions/Expression_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A01_expressions/Expression_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A01_expressions/Expression_E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A01_expressions/Expression_F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A02_tracingExecution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A03_staticMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A04_interactiveMainMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/src/exam01/A05_class/ParkingMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/Enigma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec09/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec09/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec12/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec12/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/lec15/StringComparisons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/balloons.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/src/lab3/BalloonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/src/lab3/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/src/lab3/BasketballExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/src/lab3/BasketballTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3/src/lab3/BasketballTests2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/CeilingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/Donuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/PiggyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/PiggyBankExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/PostageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/postage1/PostageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/postage2/PostageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/postage3/PostageUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/chr54858/Documents/ISU/COMS/ISU_COM_S_2270/project4" value="3A7pyswNmlml7CIcb76Ynwy9M1X" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kkoreng&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kkoreng/ISU_COM_S_2270.git&quot;,
+    &quot;accountId&quot;: &quot;1626db75-448f-4387-a3fb-e80866ad10d9&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3A7pyswNmlml7CIcb76Ynwy9M1X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CeilingTest.executor": "Run",
+    "Application.Donuts.executor": "Debug",
+    "Application.PiggyBankExample.executor": "Debug",
+    "Application.PostageTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lab4/postage1" />
+      <recent name="$PROJECT_DIR$/src/lab4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab4.postage3" />
+      <recent name="lab4.postage2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad0b1677-d786-4516-affc-5fca2578b460" name="Changes" comment="" />
+      <created>1771953723776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771953723776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab4/Donuts.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab4/Donuts.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab4/PiggyBankExample.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
